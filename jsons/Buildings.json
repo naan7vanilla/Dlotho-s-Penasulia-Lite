@@ -2,7 +2,7 @@
 	{
 		"name": "Windmill Power Plant",
 		"replaces": "Windmill",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Penasulia Lite",
 		"cost": 250,
 		"hurryCostModifier": 1000,
 		"production": 4,

@@ -29,8 +29,8 @@
 
 		"outerColor": [51,255,193],
 		"innerColor": [255,51,184],
-		"uniques": ["[+2 Culture] from every specialist [in all cities]","Starts with [Autocracy] adopted","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities","Starts with [Honor] adopted"],
+		"uniques": ["[+2 Culture] from every specialist [in all cities]","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities","Starts with [Honor] adopted"],
 		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
-			"Molasi","Sato","Fuzu","Hemecohan","Tzsubakyir","Cudo","Federhafen"]
+			"Molasi","Sato","Tzsubakyir"]
 	}
 ]

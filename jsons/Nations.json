@@ -27,8 +27,8 @@
 		"afterPeace": "Bon voyage me old cream cracker!",
 		"tradeRequest": "Trade?",
 
-		"outerColor": [51,255,193],
-		"innerColor": [255,51,184],
+		"outerColor": [7, 163, 156],
+		"innerColor": [198, 10, 116],
 		"uniques": ["[+2 Culture] from every specialist [in all cities]","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities","Starts with [Honor] adopted"],
 		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
 			"Molasi","Sato","Tzsubakyir"]

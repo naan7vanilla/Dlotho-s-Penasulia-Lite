@@ -8,7 +8,7 @@
 		"rangedStrength": 11,
 		"range": 5,
 		"cost": 185,
-		"requiredTech": "Metallurgy",
+		"requiredTech": "Machinery",
 		"promotions": ["Bombardment I"],
 		"attackSound": "phasers"
 	}

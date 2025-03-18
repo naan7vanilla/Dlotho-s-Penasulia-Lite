@@ -2,12 +2,12 @@
 	{
 		"name": "Denzomill",
 		"replaces": "Windmill",
-		"uniqueTo": "Penasulia Lite",
+		"uniqueTo": "greater Penasulia",
 		"cost": 120,
-		"hurryCostModifier": 200,
-		"production": 4,
-		"food": 2,
-		"maintenance": 2,
+		"hurryCostModifier": 100,
+		"production": 9,
+		"food": -2,
+		"maintenance": 3,
 		"uniques": ["Free [Great Engineer] appears"],
 		"requiredTech": "Economics"
 	}

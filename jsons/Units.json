@@ -2,7 +2,7 @@
 	{
 		"name": "Ornithopter",
 		"unitType": "Fighter",
-		"uniqueTo": "Penasulia Lite",
+		"uniqueTo": "greater Penasulia",
 		"replaces": "Triplane",
 		"strength": 11,
 		"rangedStrength": 11,

@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Penasulia Lite",
-		"leaderName": "Naomi d Gamoui",
-		"adjective": ["Pena"],
+		"name": "greater Penasulia",
+		"leaderName": "Abi noui Gamou",
+		"adjective": ["Penan"],
 		"startBias": ["Lakes"],
 		"preferredVictoryType": "Domination",
 		
@@ -30,7 +30,6 @@
 		"outerColor": [7, 163, 156],
 		"innerColor": [198, 10, 116],
 		"uniques": ["[+2 Culture] from every specialist [in all cities]","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities"],
-		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
-			"Molasi","Sato","Tzsubakyir"]
+		"cities": ["Sapphoro","Polchtidaumi","Tupelokav","Kamint","Aramizeau","Adonicopolis","Saloripolis","Achilena","Cenai","Nilai","Molai","Kobayou","Satomi","Waystatt","Mari","Tszubakyir","Tancha"]
 	}
 ]

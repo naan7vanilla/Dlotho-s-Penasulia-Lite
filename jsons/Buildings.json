@@ -8,7 +8,7 @@
 		"production": 14,
 		"food": -2,
 		"maintenance": 3,
-		"special": "Unsellable", "Free [Great Engineer] appears",
+		"uniques": "Unsellable", "Free [Great Engineer] appears",
 		"requiredTech": "Economics"
 	}
 ]

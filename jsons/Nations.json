@@ -29,7 +29,7 @@
 
 		"outerColor": [7, 163, 156],
 		"innerColor": [198, 10, 116],
-		"uniques": ["[+2 Culture] from every specialist [in all cities]","Starts with [Tradition] adopted","Starts with [Piety] adopted","May buy items in puppet cities"],
+		"uniques": ["[+3 Culture] from every specialist [in all cities]","May buy items in puppet cities"],
 		"cities": ["Tchidaumopre","Sapphoro","Tupelokav","Eichi","Ichibaleina","Adonicopolichi","Sailoripolichi","Achilena","Cenai","Nilai","Molai","Kobayou","Setomi","Weistatt","Mari","Cupolichi","Tancha","Masao","Oizeau","Baschi","Melona","Kamint","Minami","Mai","Tachibana","Izeaumi","Conuba","Capolichi","Cuanichi","Naho","Hina","Umihana","Arisaka","Imouta","Sasus","Mato","Bischae","Cala","Negiama","Hidoi","Vineta"]
 	}
 ]

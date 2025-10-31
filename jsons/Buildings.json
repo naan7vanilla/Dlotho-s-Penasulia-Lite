@@ -1,14 +1,14 @@
 [
 	{
-		"name": "Denzomill",
-		"replaces": "Windmill",
+		"name": "Densho Mill",
+		"replaces": "Water Mill",
 		"uniqueTo": "greater Penasulia",
 		"cost": 120,
 		"hurryCostModifier": 100,
-		"production": 9,
-		"food": 1,
-		"maintenance": 3,
+		"production": 4,
+		"food": 2,
+		"maintenance": 2,
 		"uniques": ["Free [Great Engineer] appears"],
-		"requiredTech": "Economics"
+		"requiredTech": "The Wheel"
 	}
 ]

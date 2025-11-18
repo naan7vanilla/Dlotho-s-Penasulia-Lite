@@ -5,10 +5,9 @@
 		"uniqueTo": "greater Penasulia",
 		"cost": 120,
 		"hurryCostModifier": 100,
-		"production": 4,
+		"production": 6,
 		"food": 2,
 		"maintenance": 2,
-		"uniques": ["Free [Great Engineer] appears"],
 		"requiredTech": "The Wheel"
 	}
 ]

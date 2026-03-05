@@ -1,13 +1,1 @@
-[
-	{
-		"name": "Densho Mill",
-		"replaces": "Water Mill",
-		"uniqueTo": "greater Penasulia",
-		"cost": 120,
-		"hurryCostModifier": 100,
-		"production": 6,
-		"food": 2,
-		"maintenance": 2,
-		"requiredTech": "The Wheel"
-	}
-]
+

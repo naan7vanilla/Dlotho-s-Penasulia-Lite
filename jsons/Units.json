@@ -12,17 +12,4 @@
 		"promotions": ["Bombardment I"],
 		"attackSound": "phasers"
 	}
-		{
-		"name": "Front Bowman",
-		"unitType": "Archery",
-		"uniqueTo": "greater Penasulia",
-		"replaces": "Crossbowman",
-		"strength": 15,
-		"rangedStrength": 11,
-		"range": 2,
-		"cost": 95,
-		"requiredTech": "Construction",
-		"promotions": ["Cover I","Cover II","March"],
-		"attackSound": "phasers"
-	}
 ]

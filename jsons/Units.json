@@ -22,7 +22,7 @@
 		"range": 2,
 		"cost": 95,
 		"requiredTech": "Construction",
-		"promotions": ["Cover I", "Cover II", "March"],
+		"promotions": ["Cover I","Cover II","March"],
 		"attackSound": "phasers"
 	}
 ]

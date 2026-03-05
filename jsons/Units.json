@@ -6,10 +6,23 @@
 		"replaces": "Triplane",
 		"strength": 11,
 		"rangedStrength": 11,
-		"range": 5,
-		"cost": 185,
+		"range": 4,
+		"cost": 165,
 		"requiredTech": "Machinery",
 		"promotions": ["Bombardment I"],
+		"attackSound": "phasers"
+	}
+		{
+		"name": "Front Bowman",
+		"unitType": "Archery",
+		"uniqueTo": "greater Penasulia",
+		"replaces": "Crossbowman",
+		"strength": 15,
+		"rangedStrength": 11,
+		"range": 2,
+		"cost": 95,
+		"requiredTech": "Construction",
+		"promotions": ["Cover I", "Cover II", "March"],
 		"attackSound": "phasers"
 	}
 ]
